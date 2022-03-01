@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1646112426 source:c:\users\jkim2\desktop\coding\codeblocks\c++ projects\wordscapes bot\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<limits>
+	<algorithm>
+	<vector>
+	<conio.h>
+
