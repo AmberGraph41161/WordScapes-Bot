@@ -1,0 +1,15 @@
+﻿"1-1000.txt"
+https://gist.github.com/deekayen/4148741
+
+"engmix.txt"
+http://www.gwicks.net/dictionaries.htm
+
+
+research:
+https://www.baeldung.com/cs/array-generate-all-permutations
+
+https://en.wikipedia.org/wiki/Permutation?scrlybrkr=637b0cac
+
+https://en.cppreference.com/w/cpp/algorithm/next_permutation
+
+https://www.geeksforgeeks.org/stdnext_permutation-prev_permutation-c/amp/
