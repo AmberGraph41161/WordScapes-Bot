@@ -124,7 +124,9 @@ int main()
         {
             for(int x = 0; x < letters.length(); x++)
             {
-                std::string temp = letters.substr(0, letters.length() - x);
+                std::string temp = letters.substr(0, x + 1);
+                //starting from smaller words to larger is a bit more efficient perhaps?
+                //std::string temp = letters.substr(0, letters.length() - x);
                 if(isword(temp, limiter))
                 {
                     bool alreadyused = false;
